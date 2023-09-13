@@ -1,0 +1,69 @@
+stages:
+  - deploy
+  - notify
+
+variables:
+  AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+  AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+  AWS_REGION: $AWS_REGION
+  AWS_EB: $AWS_EB
+
+deploy-api-dev:
+  stage: deploy
+  image: python:3.7-stretch
+  script:
+    - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
+    - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
+    - export AWS_REGION=$AWS_REGION
+    - export AWS_EB=$AWS_EB
+    - pip install awsebcli --upgrade --user
+    - export PATH=~/.local/bin:$PATH
+    - mkdir /opt/deploy-develop
+    - cp -r /builds/moresneakers/moresneakers/* /opt/deploy-develop
+    - cd /opt/deploy-develop 
+    - eb init $AWS_EB -r $AWS_REGION -p docker
+    - eb use ${AWS_EB}-dev
+    - eb deploy ${AWS_EB}-dev --timeout 20
+    - echo "DEPLOYED SUCCESSFULLY"
+  only:
+    - develop
+  when: manual
+
+deploy-api-prod:
+  stage: deploy
+  image: python:3.7-stretch
+  script:
+    - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
+    - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
+    - export AWS_REGION=$AWS_REGION
+    - export AWS_EB=$AWS_EB
+    - pip install awsebcli --upgrade --user
+    - export PATH=~/.local/bin:$PATH
+    - mkdir /opt/deploy-prod
+    - cp -r /builds/moresneakers/moresneakers/* /opt/deploy-prod
+    - cd /opt/deploy-prod
+    - eb init $AWS_EB -r $AWS_REGION -p docker
+    - eb use ${AWS_EB}-production
+    - eb deploy ${AWS_EB}-production --timeout 20
+    - echo "DEPLOYED SUCCESSFULLY"
+  only:
+    - master
+  when: manual
+
+success:
+  variables:
+    PIPELINE_STATE: "was successful"
+  stage: notify
+  image: 
+    name: ruby:2.5
+  script:
+    - echo "curl -i -X GET \"https://api.telegram.org/bot5117838057:AAGzwX7mEDQctxrdUY3p3KP4p-7UgwrmTRE/sendMessage?chat_id=-1001769158278&text=The '"$CI_PROJECT_URL"/-/tree/"$CI_COMMIT_BRANCH"' job execution "$PIPELINE_STATE" on commit "$CI_COMMIT_SHORT_SHA" with following description "$CI_COMMIT_DESCRIPTION" by user $CI_COMMIT_AUTHOR, for details go to '"$CI_PROJECT_URL"/-/pipelines/"$CI_PIPELINE_ID"' \"" | sh
+
+failure:
+  image: 
+    name: ruby:2.5
+  stage: notify
+  when: on_failure
+  script:
+    - echo "curl -i -X GET \"https://api.telegram.org/bot5117838057:AAGzwX7mEDQctxrdUY3p3KP4p-7UgwrmTRE/sendMessage?chat_id=-1001769158278&text=🚨🚨🚨The '"$CI_PROJECT_URL"/-/tree/"$CI_COMMIT_BRANCH"' job execution has failed on commit "$CI_COMMIT_SHORT_SHA" by user $CI_COMMIT_AUTHOR, for details go to '"$CI_PROJECT_URL"/-/pipelines/"$CI_PIPELINE_ID"' \"" | sh
+ 

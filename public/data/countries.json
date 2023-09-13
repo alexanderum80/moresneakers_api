@@ -1,0 +1,1292 @@
+[
+  {
+    "country": "Afghanistan",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Aland Islands",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Albania",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Algeria",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "American Samoa",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Andorra",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Angola",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Anguilla",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Anonymous Proxy",
+    "region": "Unknown",
+    "global": "Unknown"
+  },
+  {
+    "country": "Antarctica",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Argentina",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Armenia",
+    "region": "Europe",
+    "global": "Global South"
+  },
+  {
+    "country": "Aruba",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Asia/Pacific Region",
+    "region": "Asia & Pacific",
+    "global": "Unknown"
+  },
+  {
+    "country": "Australia",
+    "region": "Asia & Pacific",
+    "global": "Global North"
+  },
+  {
+    "country": "Austria",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Azerbaijan",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Bahamas",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Bahrain",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Bangladesh",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Barbados",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Belarus",
+    "region": "Europe",
+    "global": "Global South"
+  },
+  {
+    "country": "Belgium",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Belize",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Benin",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Bermuda",
+    "region": "North America",
+    "global": "Global North"
+  },
+  {
+    "country": "Bhutan",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Bolivia",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Bonaire, Saint Eustatius and Saba",
+    "region": "Unknown",
+    "global": "Unknown"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Botswana",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Bouvet Island",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Brazil",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Brunei Darussalam",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Bulgaria",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Burkina Faso",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Burundi",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Cameroon",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Canada",
+    "region": "North America",
+    "global": "Global North"
+  },
+  {
+    "country": "Cape Verde",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Cayman Islands",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Central African Republic",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Chad",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Chile",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "China",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Christmas Island",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Colombia",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Comoros",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Congo",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Congo, The Democratic Republic of the",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Cook Islands",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Costa Rica",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Croatia",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Cuba",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Curaçao",
+    "region": "Unknown",
+    "global": "Unknown"
+  },
+  {
+    "country": "Cyprus",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Czech Republic",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Côte D'Ivoire",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Denmark",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Djibouti",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Dominica",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Dominican Republic",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Ecuador",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Egypt",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "El Salvador",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Eritrea",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Estonia",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Ethiopia",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Europe",
+    "region": "Europe",
+    "global": "Unknown"
+  },
+  {
+    "country": "Falkland Islands (Malvinas)",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Faroe Islands",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Fiji",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Finland",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "France",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "France, Metropolitan",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "French Guiana",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "French Polynesia",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "French Southern Territories",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Gabon",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Gambia",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Georgia",
+    "region": "Europe",
+    "global": "Global South"
+  },
+  {
+    "country": "Germany",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Ghana",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Gibraltar",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Greece",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Greenland",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Grenada",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Guadeloupe",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Guam",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Guatemala",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Guernsey",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Guinea",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Guyana",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Haiti",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Holy See (Vatican City State)",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Honduras",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Hong Kong",
+    "region": "Asia & Pacific",
+    "global": "Global North"
+  },
+  {
+    "country": "Hungary",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Iceland",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "India",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Indonesia",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Invalid IP",
+    "region": "Unknown",
+    "global": "Unknown"
+  },
+  {
+    "country": "Iran, Islamic Republic of",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Iraq",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Ireland",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Isle of Man",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Israel",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Italy",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Jamaica",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Japan",
+    "region": "Asia & Pacific",
+    "global": "Global North"
+  },
+  {
+    "country": "Jersey",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Jordan",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Kazakhstan",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Kenya",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Kiribati",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Korea, Democratic People's Republic of",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Korea, Republic of",
+    "region": "Asia & Pacific",
+    "global": "Global North"
+  },
+  {
+    "country": "Kuwait",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Latvia",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Lebanon",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Lesotho",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Liberia",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Libya",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Libyan Arab Jamahiriya",
+    "region": "Unknown",
+    "global": "Unknown"
+  },
+  {
+    "country": "Liechtenstein",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Lithuania",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Luxembourg",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Macau",
+    "region": "Asia & Pacific",
+    "global": "Global North"
+  },
+  {
+    "country": "Macedonia",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Madagascar",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Malawi",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Malaysia",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Maldives",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Mali",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Malta",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Marshall Islands",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Martinique",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Mauritania",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Mauritius",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Mayotte",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Mexico",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Micronesia, Federated States of",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Moldova, Republic of",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Monaco",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Mongolia",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Montenegro",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Montserrat",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Morocco",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Mozambique",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Myanmar",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Namibia",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Nauru",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Nepal",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Netherlands Antilles",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "New Caledonia",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "New Zealand",
+    "region": "Asia & Pacific",
+    "global": "Global North"
+  },
+  {
+    "country": "Nicaragua",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Niger",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Nigeria",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Niue",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Norfolk Island",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Norway",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Oman",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Other",
+    "region": "Unknown",
+    "global": "Unknown"
+  },
+  {
+    "country": "Pakistan",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Palau",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Palestinian Territory",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Panama",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Papua New Guinea",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Paraguay",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Peru",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Philippines",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Pitcairn Islands",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Poland",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Portugal",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Puerto Rico",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Qatar",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Reunion",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Romania",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Russian Federation",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Rwanda",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Saint Barthelemy",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Saint Helena",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Saint Lucia",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Saint Martin",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "region": "North America",
+    "global": "Global North"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Samoa",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "San Marino",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Satellite Provider",
+    "region": "Unknown",
+    "global": "Unknown"
+  },
+  {
+    "country": "Saudi Arabia",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Senegal",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Serbia",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Seychelles",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Sierra Leone",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Singapore",
+    "region": "Asia & Pacific",
+    "global": "Global North"
+  },
+  {
+    "country": "Sint Maarten (Dutch part)",
+    "region": "Unknown",
+    "global": "Unknown"
+  },
+  {
+    "country": "Slovakia",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Slovenia",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Solomon Islands",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Somalia",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "South Africa",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "South Sudan",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Spain",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Sri Lanka",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Sudan",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Suriname",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Swaziland",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Sweden",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Switzerland",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Taiwan",
+    "region": "Asia & Pacific",
+    "global": "Global North"
+  },
+  {
+    "country": "Tajikistan",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Tanzania, United Republic of",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Thailand",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Timor-Leste",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Togo",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Tokelau",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Tonga",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Tunisia",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Turkey",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "Turkmenistan",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Tuvalu",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Uganda",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Ukraine",
+    "region": "Europe",
+    "global": "Global South"
+  },
+  {
+    "country": "United Arab Emirates",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe",
+    "global": "Global North"
+  },
+  {
+    "country": "United States",
+    "region": "North America",
+    "global": "Global North"
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Uruguay",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Uzbekistan",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Vanuatu",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Venezuela",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Vietnam",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Virgin Islands, British",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Virgin Islands, U.S.",
+    "region": "South/Latin America",
+    "global": "Global South"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "region": "Asia & Pacific",
+    "global": "Global South"
+  },
+  {
+    "country": "Western Sahara",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Yemen",
+    "region": "Arab States",
+    "global": "Global South"
+  },
+  {
+    "country": "Zambia",
+    "region": "Africa",
+    "global": "Global South"
+  },
+  {
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "global": "Global South"
+  }
+]

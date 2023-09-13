@@ -1,0 +1,23 @@
+language: node_js
+node_js:
+ - "node"
+before_install:
+ - npm install -g yarn@0.27.5
+ - yarn --version
+ - npm install -g sequelize-cli
+ - npm install -g standard@10.0.3
+ - npm install -g babel-eslint@8.0.3
+ - npm install -g snazzy
+ - mysql -c 'create database more_sneakers;' -U root
+install:
+ - yarn
+after_script:
+ - npm run coveralls
+after_success:
+  - npm run travis-deploy-once "npm run semantic-release"
+cache:
+  yarn: true
+  directories:
+    - node_modules
+services:
+  - mysql
